@@ -1,0 +1,28 @@
+h1{
+    color: lightcoral;
+    border:  solid dimgray;
+    background-color: dimgrey;
+}
+body{
+    background-color: #ffffcc;
+}
+img{
+    border: 3px solid black;
+}
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+ol,ul{
+    font-family: comic sans ms;
+}
+.app{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.game{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
